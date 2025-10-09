@@ -9,5 +9,7 @@ Materia: Tecnologias Web
 
 Periodo: Otoño 2025
 
+Descripción: Hola, estoy actualizando los pendientes, empezando por el repositorio central
+
 
 
